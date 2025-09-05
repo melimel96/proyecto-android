@@ -1,0 +1,3 @@
+Estamos aprendiendo 
+los comandos básicos de git
+
